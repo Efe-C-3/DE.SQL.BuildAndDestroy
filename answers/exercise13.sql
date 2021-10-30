@@ -1,0 +1,1 @@
+ALTER TABLE users CHANGE first_name FirstName VARCHAR(255) NOT NULL, CHANGE last_name LastName VARCHAR(255) NOT NULL;
